@@ -21,6 +21,13 @@ footer{
 	display: none;
 }
 
+[epub|type~="subchapter"] header p{
+	text-align: center;
+	text-indent: 0;
+	font-style: italic;
+	margin-bottom: 3em;
+}
+
 [epub|type~="dedication"]{
 	text-align: center;
 }
