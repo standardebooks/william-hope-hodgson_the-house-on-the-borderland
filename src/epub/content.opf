@@ -115,8 +115,9 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="introduction.xhtml"/>
 		<itemref idref="foreword.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
+		<itemref idref="introduction.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
@@ -145,7 +146,6 @@
 		<itemref idref="chapter-25.xhtml"/>
 		<itemref idref="chapter-26.xhtml"/>
 		<itemref idref="chapter-27.xhtml"/>
-		<itemref idref="dedication.xhtml"/>
 		<itemref idref="grief.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
