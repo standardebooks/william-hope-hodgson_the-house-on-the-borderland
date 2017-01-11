@@ -47,6 +47,10 @@ footer{
 	display: inline-block;
 }
 
+[epub|type~="dedication"] blockquote cite{
+	margin-top: 1em;
+}
+
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
