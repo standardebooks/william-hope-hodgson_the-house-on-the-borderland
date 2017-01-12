@@ -21,15 +21,21 @@
 		<meta property="file-as" refines="#title">House on the Borderland, The</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/10002</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Science Fiction</meta>
+		<meta property="se:subject">Horror</meta>
+		<dc:description id="description">An account of the terrifying metaphysical haunting of a recluse’s secluded home.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			<p>The House on the Borderland is unique in several ways.  The narrative itself is a double-frame narrative: the editor of the volume is presenting a manuscript he found under mysterious circumstances, describing the account of two fishermen who themselves discovered a hand-written account of the cosmic haunting of a recluse's remote home.</p>
+
+			<p>Additionally, the novel is one of the earliest examples of the departure of horror fiction from the Gothic style of supernatural, psychological hauntings, to more realist, science-fiction/cosmic horror themes.  The reculse is, among other events, transported to a mysterious supra-universal plane populated by monsters and elder gods; and his house withstands assaults from legions of monsters as he travels across time and the solar system.</p>
+
+			<p>The book was very influential on H. P. Lovecraft, who himself was famous for the cosmic horror themes in his work.  The concept of an uncaring, and even evil, universe that Lovecraft found so disturbing is front and center in this supremely strange novel.</p>
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10002</dc:source>
+		<meta property="se:production-notes">Two missing paragraphs missing from the introduction have been newly transcribed from the 1908 edition.</meta>
 		<meta property="se:word-count">50809</meta>
 		<meta property="se:reading-ease.flesch">70.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_on_the_Borderland</meta>
@@ -66,6 +72,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">edt</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
