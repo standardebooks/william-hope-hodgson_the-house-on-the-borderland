@@ -43,6 +43,10 @@ footer{
 	margin: 3em auto;
 }
 
+[epub|type~="dedication"] header p{
+	text-indent: 0;
+}
+
 [epub|type~="dedication"] blockquote{
 	display: inline-block;
 }
