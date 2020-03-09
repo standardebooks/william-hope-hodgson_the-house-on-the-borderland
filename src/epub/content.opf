@@ -44,7 +44,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10002</dc:source>
 		<meta property="se:production-notes">Two missing paragraphs missing from the introduction have been newly transcribed from the 1908 edition. Some ungrammatical commas have been removed.</meta>
-		<meta property="se:word-count">51007</meta>
+		<meta property="se:word-count">51021</meta>
 		<meta property="se:reading-ease.flesch">70.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_on_the_Borderland</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-hope-hodgson_the-house-on-the-borderland</meta>
