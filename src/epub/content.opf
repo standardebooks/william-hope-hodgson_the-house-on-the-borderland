@@ -32,8 +32,8 @@
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
-		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Horror</meta>
+		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">An account of the terrifying metaphysical haunting of a recluse’s secluded home.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The House on the Borderland is unique in several ways. The narrative itself is a double-frame narrative: the editor of the volume is presenting a manuscript he found under mysterious circumstances, describing the account of two fishermen who themselves discovered a hand-written account of the cosmic haunting of a recluse’s remote home.&lt;/p&gt;
