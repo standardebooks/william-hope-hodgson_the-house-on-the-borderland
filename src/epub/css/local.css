@@ -22,7 +22,7 @@ footer{
 	display: none;
 }
 
-[epub|type~="subchapter"] header p{
+[epub|type~="z3998:subchapter"] header p{
 	font-style: italic;
 }
 
