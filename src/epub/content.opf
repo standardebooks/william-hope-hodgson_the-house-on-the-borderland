@@ -42,7 +42,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10002</dc:source>
 		<meta property="se:production-notes">Two missing paragraphs missing from the introduction have been newly transcribed from the 1908 edition. The original print edition of this novel contains a pathological number of commas—so much so that even Hodgson’s contemporary readers would have found them distracting at best and plainly ungrammatical at worst. We have made an effort to remove the most egregious cases of these ungrammatical commas, so that modern readers can better enjoy this unique tale.</meta>
-		<meta property="se:word-count">51021</meta>
+		<meta property="se:word-count">51020</meta>
 		<meta property="se:reading-ease.flesch">70.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_on_the_Borderland</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-hope-hodgson_the-house-on-the-borderland</meta>
