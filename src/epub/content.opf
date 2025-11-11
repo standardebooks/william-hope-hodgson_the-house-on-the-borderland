@@ -54,6 +54,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Georges Braque</dc:contributor>
 		<meta property="file-as" refines="#artist">Braque, Georges</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Georges_Braque</meta>
