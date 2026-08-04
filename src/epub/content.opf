@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="schema:genre">Horror</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>An account of the terrifying metaphysical haunting of a recluse’s secluded home.</dc:abstract>
+		<meta property="schema:abstract">An account of the terrifying metaphysical haunting of a recluse’s secluded home.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The House on the Borderland&lt;/i&gt; is unique in several ways. The narrative itself is a double-frame narrative: the editor of the volume is presenting a manuscript he found under mysterious circumstances, describing the account of two fishermen who themselves discovered a hand-written account of the cosmic haunting of a recluse’s remote home.&lt;/p&gt;
 			&lt;p&gt;Additionally, the novel is one of the earliest examples of the departure of horror fiction from the Gothic style of supernatural, psychological hauntings, to more realist, science-fiction/cosmic horror themes. The recluse is, among other events, transported to a mysterious supra-universal plane populated by monsters and elder gods; and his house withstands assaults from legions of monsters as he travels across time and the solar system.&lt;/p&gt;
